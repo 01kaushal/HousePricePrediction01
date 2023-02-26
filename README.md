@@ -1,4 +1,4 @@
-### [Boston House Pricing Prediction](02kaushal.pythonanywhere.com)
+### Boston House Pricing Prediction
 
 ### Software And Tools Requirements
 
